@@ -1,3 +1,3 @@
 [submodule "zk-bootcamp-exercises"]
 	path = zk-bootcamp-exercises
-	url = https://github.com/kavasaziz/zk-bootcamp-exercises
+	url = git@github.com:kavasaziz/zk-bootcamp-exercises.git
